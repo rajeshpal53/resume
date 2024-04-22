@@ -1,0 +1,28 @@
+
+.display-flex{
+
+    display: flex;
+
+}
+
+.margin-5{
+    margin: 5em;;
+}
+
+.width-50{
+
+    width: 50%;
+
+}
+
+.border-right-class{
+    border-right: 0.1em solid black;
+}
+
+.margin-left-div{
+    margin-left: 1em;
+}
+
+.justify-content-div {
+    justify-content: space-between;
+}
